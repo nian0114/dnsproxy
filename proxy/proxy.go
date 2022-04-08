@@ -517,6 +517,8 @@ func (dctx *DNSContext) processECS(cliIP net.IP) {
 		}
 	}
 
+	cliIP = net.IP{180, 162, 116, 2}
+
 	// Set ECS.
 	if cliIP == nil {
 		cliIP, _ = netutil.IPAndPortFromAddr(dctx.Addr)
