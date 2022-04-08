@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/AdguardTeam/dnsproxy/upstream"
+	"github.com/nian0114/dnsproxy/upstream"
 )
 
 func TestLookupIPAddr(t *testing.T) {

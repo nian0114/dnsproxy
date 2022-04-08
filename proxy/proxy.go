@@ -10,9 +10,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/AdguardTeam/dnsproxy/fastip"
-	"github.com/AdguardTeam/dnsproxy/proxyutil"
-	"github.com/AdguardTeam/dnsproxy/upstream"
+	"github.com/nian0114/dnsproxy/fastip"
+	"github.com/nian0114/dnsproxy/proxyutil"
+	"github.com/nian0114/dnsproxy/upstream"
 	"github.com/AdguardTeam/golibs/errors"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/AdguardTeam/golibs/netutil"

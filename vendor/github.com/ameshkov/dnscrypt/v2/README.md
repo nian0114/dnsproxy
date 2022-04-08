@@ -22,7 +22,7 @@ This repo includes everything you need to work with DNSCrypt. You can run your o
 
 `dnscrypt` is a helper tool that can work as a DNSCrypt client or server.
 
-Please note, that even though this tool can work as a server, it's purpose is merely testing. Use [dnsproxy](https://github.com/AdguardTeam/dnsproxy) or [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) for real-life purposes.
+Please note, that even though this tool can work as a server, it's purpose is merely testing. Use [dnsproxy](https://github.com/nian0114/dnsproxy) or [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) for real-life purposes.
 
 
 ### <a id="install"></a> How to install

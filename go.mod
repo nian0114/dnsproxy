@@ -1,4 +1,4 @@
-module github.com/AdguardTeam/dnsproxy
+module github.com/nian0114/dnsproxy
 
 go 1.17
 

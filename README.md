@@ -1,7 +1,7 @@
 [![Code Coverage](https://img.shields.io/codecov/c/github/AdguardTeam/dnsproxy/master.svg)](https://codecov.io/github/AdguardTeam/dnsproxy?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/AdguardTeam/dnsproxy)](https://goreportcard.com/report/AdguardTeam/dnsproxy)
-[![GolangCI](https://golangci.com/badges/github.com/AdguardTeam/dnsproxy.svg)](https://golangci.com/r/github.com/AdguardTeam/dnsproxy)
-[![Go Doc](https://godoc.org/github.com/AdguardTeam/dnsproxy?status.svg)](https://godoc.org/github.com/AdguardTeam/dnsproxy)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nian0114/dnsproxy)](https://goreportcard.com/report/AdguardTeam/dnsproxy)
+[![GolangCI](https://golangci.com/badges/github.com/nian0114/dnsproxy.svg)](https://golangci.com/r/github.com/nian0114/dnsproxy)
+[![Go Doc](https://godoc.org/github.com/nian0114/dnsproxy?status.svg)](https://godoc.org/github.com/nian0114/dnsproxy)
 
 # DNS Proxy <!-- omit in toc -->
 

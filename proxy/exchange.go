@@ -4,7 +4,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/AdguardTeam/dnsproxy/upstream"
+	"github.com/nian0114/dnsproxy/upstream"
 	"github.com/AdguardTeam/golibs/errors"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/miekg/dns"

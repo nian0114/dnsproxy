@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AdguardTeam/dnsproxy/upstream"
+	"github.com/nian0114/dnsproxy/upstream"
 	glcache "github.com/AdguardTeam/golibs/cache"
 	"github.com/AdguardTeam/golibs/netutil"
 	"github.com/AdguardTeam/golibs/testutil"

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/AdguardTeam/dnsproxy/proxyutil"
+	"github.com/nian0114/dnsproxy/proxyutil"
 	"github.com/AdguardTeam/golibs/errors"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/miekg/dns"

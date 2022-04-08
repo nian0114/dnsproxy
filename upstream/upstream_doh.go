@@ -198,7 +198,7 @@ func (p *dnsOverHTTPS) createTransport() (*http.Transport, error) {
 
 	// Explicitly configure transport to use HTTP/2.
 	//
-	// See https://github.com/AdguardTeam/dnsproxy/issues/11.
+	// See https://github.com/nian0114/dnsproxy/issues/11.
 	var transportH2 *http2.Transport
 	transportH2, err = http2.ConfigureTransports(transport)
 	if err != nil {

@@ -4,7 +4,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/AdguardTeam/dnsproxy/upstream"
+	"github.com/nian0114/dnsproxy/upstream"
 	"github.com/AdguardTeam/golibs/netutil"
 	"github.com/AdguardTeam/golibs/testutil"
 	"github.com/miekg/dns"

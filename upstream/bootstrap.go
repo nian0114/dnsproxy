@@ -147,7 +147,7 @@ func (n *bootstrapper) get() (*tls.Config, dialHandler, error) {
 
 	// Don't lock anymore (we can launch multiple lookup requests at a time)
 	// Otherwise, it might mess with the timeout specified for the Upstream
-	// See here: https://github.com/AdguardTeam/dnsproxy/issues/15
+	// See here: https://github.com/nian0114/dnsproxy/issues/15
 	n.RUnlock()
 
 	//

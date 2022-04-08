@@ -63,7 +63,7 @@ func (p *dnsOverTLS) Exchange(m *dns.Msg) (*dns.Msg, error) {
 	if err != nil {
 		log.Tracef("The TLS connection is expired due to %s", err)
 
-		// The pooled connection might have been closed already (see https://github.com/AdguardTeam/dnsproxy/issues/3)
+		// The pooled connection might have been closed already (see https://github.com/nian0114/dnsproxy/issues/3)
 		// So we're trying to re-connect right away here.
 		// We are forcing creation of a new connection instead of calling Get() again
 		// as there's no guarantee that other pooled connections are intact

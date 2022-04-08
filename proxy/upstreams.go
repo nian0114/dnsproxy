@@ -7,7 +7,7 @@ import (
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/AdguardTeam/golibs/netutil"
 
-	"github.com/AdguardTeam/dnsproxy/upstream"
+	"github.com/nian0114/dnsproxy/upstream"
 )
 
 // UpstreamConfig is a wrapper for list of default upstreams and map of reserved domains and corresponding upstreams

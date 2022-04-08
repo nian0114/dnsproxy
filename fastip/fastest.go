@@ -8,8 +8,8 @@ import (
 
 	"github.com/AdguardTeam/golibs/log"
 
-	"github.com/AdguardTeam/dnsproxy/proxyutil"
-	"github.com/AdguardTeam/dnsproxy/upstream"
+	"github.com/nian0114/dnsproxy/proxyutil"
+	"github.com/nian0114/dnsproxy/upstream"
 	"github.com/AdguardTeam/golibs/cache"
 	"github.com/miekg/dns"
 )

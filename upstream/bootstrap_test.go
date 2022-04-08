@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-// See the details here: https://github.com/AdguardTeam/dnsproxy/issues/18
+// See the details here: https://github.com/nian0114/dnsproxy/issues/18
 func TestDialContext(t *testing.T) {
 	resolved := []struct {
 		addresses []string

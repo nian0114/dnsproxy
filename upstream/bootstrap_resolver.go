@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/AdguardTeam/dnsproxy/proxyutil"
+	"github.com/nian0114/dnsproxy/proxyutil"
 	"github.com/AdguardTeam/golibs/log"
 	"github.com/miekg/dns"
 )
